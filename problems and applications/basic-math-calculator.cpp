@@ -48,6 +48,5 @@ int main()
 		    system ("pause");  
 		    
 		                    } while (1);
-		
 		return 0;
 }
