@@ -8,7 +8,7 @@ int main()
 	while (i<=num){
 		if (num==i && num%i==0) {
 		printf("%d is prime.",num);}
-		else if(num%i==0) {
+		else if(num%i == 0) {
 			printf("%d is not prime.",num);
 			break;
 		}
